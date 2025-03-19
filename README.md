@@ -41,19 +41,11 @@ Me chamo Leonardo Marcon Mosconi, 33 anos, natural de Minas Gerais sou formado e
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Revit" 
     title="Revit"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg](https://www.notion.so/image/attachment%3Af800f49a-d45e-4dd9-b3c1-193e29f753b0%3AICONES_180X180_(1).png?table=block&id=f0d8b964-ee9d-4c2a-b788-821a61e7ae41&spaceId=a0310dcd-bb3e-4088-9795-c4aab3cb1cea&width=250&freeze=true&userId=e005b53a-b130-447e-b7d9-953fb08a3f4d&cache=v2)" 
+    src="https://www.notion.so/image/attachment%3Af800f49a-d45e-4dd9-b3c1-193e29f753b0%3AICONES_180X180_(1).png?table=block&id=f0d8b964-ee9d-4c2a-b788-821a61e7ae41&spaceId=a0310dcd-bb3e-4088-9795-c4aab3cb1cea&width=250&freeze=true&userId=e005b53a-b130-447e-b7d9-953fb08a3f4d&cache=v2" 
 />
 <img 
     align="left" 
