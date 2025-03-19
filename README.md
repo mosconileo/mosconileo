@@ -1,9 +1,8 @@
-## Leonardo Marcon Mosconi  🌱
-# 👩🏻‍💻 Larissa Kich
+# Leonardo Marcon Mosconi  🌱
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor BIM`**
 
-Me chamo Leonardo Marcon Mosconi, natural de Minas Gerais. Formado em Arquitetura e urbanismo depois de trancar 4 anos de Engenharia civil, com o curso técnico em informática, montagem e manutenção de computadores, formação em Tutor de tecnologias google for education. Atualmente, estudando Python para automatizar rotinas Dynamo com scripts, transformando o mundo da arquitetura em um lugar com mais espaço para criação, automatizando tarefas repetitivas que tomam nosso tempo na hora de projetar. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Archverso](https://www.youtube.com/@archverso)", onde ensino diversos truques e dicas na hora de projetar em revit, configurar programas de PC's, e também através do Instagram, com o perfil chamado "[@Archverso.3D]([https://www.instagram.com/dev_em_dev/](https://www.instagram.com/archverso.3d/)".
+Me chamo Leonardo Marcon Mosconi, 33 anos, natural de Minas Gerais sou formado em Arquitetura e urbanismo depois de trancar a faculdade de 4 anos de Engenharia civil. Desde os 12 anos com o curso técnicos em informática, cresci vivendo em varias lan-houses da cidade até conseguir comprar meu primeiro computador, cursos como montagem e manutenção de computadores, digitação, word e excel fizeram parte dessa jornada. Já na faculdade tive formação em Tutor de tecnologias Google for Education e participei de uma hackaton pequena. Atualmente, estudando Python para automatizar rotinas Dynamo com scripts, transformando o mundo da arquitetura em um lugar com mais espaço para criação, automatizando tarefas repetitivas que tomam nosso tempo na hora de projetar. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Archverso](https://www.youtube.com/@archverso)", onde ensino diversos truques e dicas na hora de projetar em revit, sketchup e tambem configurar programas de PC's, estou também no Instagram, com o perfil chamado "[@Archverso.3D]([https://www.instagram.com/dev_em_dev/](https://www.instagram.com/archverso.3d/)" compartilhando meus desafios diarios quando lembro e me sobra tempo.
 
 <p align="left">
     <a href="https://www.youtube.com/@archverso?sub_confirmation=1">
@@ -50,91 +49,11 @@ Me chamo Leonardo Marcon Mosconi, natural de Minas Gerais. Formado em Arquitetur
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Revit" 
+    title="Revit"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg](https://www.notion.so/image/attachment%3Af800f49a-d45e-4dd9-b3c1-193e29f753b0%3AICONES_180X180_(1).png?table=block&id=f0d8b964-ee9d-4c2a-b788-821a61e7ae41&spaceId=a0310dcd-bb3e-4088-9795-c4aab3cb1cea&width=250&freeze=true&userId=e005b53a-b130-447e-b7d9-953fb08a3f4d&cache=v2)" 
 />
 <img 
     align="left" 
